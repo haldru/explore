@@ -154,16 +154,16 @@ Hash: 740ccee1066d96aeb3f4d1e571245913
 Package: haldru
 Source: github
 Version: 0.0.0.9000
-Hash: 10daa268d374f3bdb2f7f26aa6f8fe09
+Hash: 5fabdcd8c50cedf7249c3b023ef8d474
 GithubRepo: haldru
 GithubUsername: haldru
 GithubRef: HEAD
-GithubSha1: 57b4ad87ccf64d92f46b7fcb335daa9dd7863997
+GithubSha1: 783a30185866fd5a7cc4962b4c369e538303e4d2
 RemoteHost: api.github.com
 RemoteRepo: haldru
 RemoteUsername: haldru
 RemoteRef: HEAD
-RemoteSha: 57b4ad87ccf64d92f46b7fcb335daa9dd7863997
+RemoteSha: 783a30185866fd5a7cc4962b4c369e538303e4d2
 
 Package: highr
 Source: CRAN
