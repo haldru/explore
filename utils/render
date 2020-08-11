@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+echo ""
+echo "    start new build..."
+echo ""
+echo "    clean up previous build..."
+echo ""
+BOOK_DIR=$(pwd)/docs
+SOURCE_DIR=$(pwd)/litprog
+rm -rf ${BOOK_DIR}
+mkdir ${BOOK_DIR}
+echo "    building..."
+echo ""
+Rscript litprog/render.R
+echo ""
+echo "    new build down!"
+echo ""

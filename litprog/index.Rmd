@@ -1,0 +1,4 @@
+---
+title: Exploration des halleschen Druckwesens im 16., 17. und 18. Jahrhundert
+output: html_document
+---
